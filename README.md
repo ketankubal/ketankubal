@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ketan Kubal</h1>
+<h3 align="center">Aspiring Software Tester | Java Learner | IT Enthusiast</h3>
 
-<!--
-**ketankubal/ketankubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **Java, Manual Testing, and SQL**
+- 🧪 Practicing **Test Cases, Bug Reporting, and Testing Concepts**
+- 💻 Exploring **Automation Testing (Selenium)**
+- 📚 Passionate about growing in the IT field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- **Manual Testing**
+- **Java (Core Concepts)**
+- **SQL (Basics)**
+- **HTML, CSS**
+- **VS Code, Eclipse, XAMPP**
+
+---
+
+### 📈 GitHub Stats
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+### 📫 How to reach me:
+- **Email:** ketankubal8@gmail.com  
+
+---
+
+⭐ *Thank you for visiting my profile!*
